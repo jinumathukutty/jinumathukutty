@@ -7,6 +7,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for mobile app concepts!
 - 💬 Ask me about React Js, Node Js, Asp.net ,SQL
+- 75% of my repos are private.
 - 📫 How to reach me: mailto555jinu@gmail.com
 
 ### Connect with me:
