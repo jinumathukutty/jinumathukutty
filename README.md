@@ -2,8 +2,8 @@
 
 ## Developer | React JS | Node JS | React Native | ES6 | Asp .Net | Web Api | MVC | SQL 
 
-- 🔭 I’m currently working on [Brane System](https://branesystem.com)
-- 🌱 I’m currently learning everything 🤣
+- 🔭 I’m currently working on [iNPLASS - The NextGen Hotel Management Software Solution](https://www.inplass.com)
+- 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate with other content creators
 - 🤔 I’m looking for mobile app concepts!
 - 💬 Ask me about React Js, Node Js, Asp.net ,SQL
